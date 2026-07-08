@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/prafulpatil1121/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/prafulpatil1121/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/prafulpatil1121/LeetCode/tree/master/0647-palindromic-substrings) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prafulpatil1121/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prafulpatil1121/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/prafulpatil1121/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/prafulpatil1121/LeetCode/tree/master/0647-palindromic-substrings) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prafulpatil1121/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Array
 |  |
 | ------- |
