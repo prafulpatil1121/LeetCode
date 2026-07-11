@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prafulpatil1121/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/prafulpatil1121/LeetCode/tree/master/0011-container-with-most-water) |
 | [0647-palindromic-substrings](https://github.com/prafulpatil1121/LeetCode/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prafulpatil1121/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/prafulpatil1121/LeetCode/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/prafulpatil1121/LeetCode/tree/master/0009-palindrome-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/prafulpatil1121/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
