@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/prafulpatil1121/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/prafulpatil1121/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
