@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/prafulpatil1121/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/prafulpatil1121/LeetCode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/prafulpatil1121/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/prafulpatil1121/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0647-palindromic-substrings](https://github.com/prafulpatil1121/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prafulpatil1121/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Dynamic Programming
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prafulpatil1121/LeetCode/tree/master/0001-two-sum) |
+| [0208-implement-trie-prefix-tree](https://github.com/prafulpatil1121/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/prafulpatil1121/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/prafulpatil1121/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/prafulpatil1121/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
