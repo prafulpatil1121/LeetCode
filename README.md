@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prafulpatil1121/LeetCode/tree/master/0015-3sum) |
 | [0212-word-search-ii](https://github.com/prafulpatil1121/LeetCode/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prafulpatil1121/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/prafulpatil1121/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/prafulpatil1121/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prafulpatil1121/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/prafulpatil1121/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1748-sum-of-unique-elements](https://github.com/prafulpatil1121/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prafulpatil1121/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Backtracking
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/prafulpatil1121/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/prafulpatil1121/LeetCode/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
