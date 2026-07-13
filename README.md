@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/prafulpatil1121/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/prafulpatil1121/LeetCode/tree/master/0212-word-search-ii) |
 | [0647-palindromic-substrings](https://github.com/prafulpatil1121/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0771-jewels-and-stones](https://github.com/prafulpatil1121/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prafulpatil1121/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Dynamic Programming
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prafulpatil1121/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/prafulpatil1121/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prafulpatil1121/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/prafulpatil1121/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Backtracking
 |  |
 | ------- |
