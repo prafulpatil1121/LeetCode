@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/prafulpatil1121/LeetCode/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prafulpatil1121/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/prafulpatil1121/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prafulpatil1121/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/prafulpatil1121/LeetCode/tree/master/0009-palindrome-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prafulpatil1121/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greedy
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prafulpatil1121/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prafulpatil1121/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prafulpatil1121/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
