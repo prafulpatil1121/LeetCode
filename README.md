@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prafulpatil1121/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prafulpatil1121/LeetCode/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/prafulpatil1121/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/prafulpatil1121/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/prafulpatil1121/LeetCode/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/prafulpatil1121/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0212-word-search-ii](https://github.com/prafulpatil1121/LeetCode/tree/master/0212-word-search-ii) |
 | [0283-move-zeroes](https://github.com/prafulpatil1121/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/prafulpatil1121/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prafulpatil1121/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prafulpatil1121/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/prafulpatil1121/LeetCode/tree/master/0867-transpose-matrix) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prafulpatil1121/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/prafulpatil1121/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/prafulpatil1121/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/prafulpatil1121/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prafulpatil1121/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prafulpatil1121/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/prafulpatil1121/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prafulpatil1121/LeetCode/tree/master/0015-3sum) |
+| [0349-intersection-of-two-arrays](https://github.com/prafulpatil1121/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prafulpatil1121/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prafulpatil1121/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/prafulpatil1121/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Number Theory
 |  |
 | ------- |
