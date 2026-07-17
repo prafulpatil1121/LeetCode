@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/prafulpatil1121/LeetCode/tree/master/0212-word-search-ii) |
 | [0283-move-zeroes](https://github.com/prafulpatil1121/LeetCode/tree/master/0283-move-zeroes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prafulpatil1121/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0867-transpose-matrix](https://github.com/prafulpatil1121/LeetCode/tree/master/0867-transpose-matrix) |
 | [1748-sum-of-unique-elements](https://github.com/prafulpatil1121/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prafulpatil1121/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/prafulpatil1121/LeetCode/tree/master/0212-word-search-ii) |
+| [0867-transpose-matrix](https://github.com/prafulpatil1121/LeetCode/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prafulpatil1121/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/prafulpatil1121/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
