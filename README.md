@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/prafulpatil1121/LeetCode/tree/master/0212-word-search-ii) |
 | [0283-move-zeroes](https://github.com/prafulpatil1121/LeetCode/tree/master/0283-move-zeroes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prafulpatil1121/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/prafulpatil1121/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/prafulpatil1121/LeetCode/tree/master/0867-transpose-matrix) |
 | [1748-sum-of-unique-elements](https://github.com/prafulpatil1121/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prafulpatil1121/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/prafulpatil1121/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/prafulpatil1121/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prafulpatil1121/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/prafulpatil1121/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/prafulpatil1121/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/prafulpatil1121/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prafulpatil1121/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prafulpatil1121/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/prafulpatil1121/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
