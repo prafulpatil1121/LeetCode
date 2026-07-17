@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/prafulpatil1121/LeetCode/tree/master/0009-palindrome-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prafulpatil1121/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3765-complete-prime-number](https://github.com/prafulpatil1121/LeetCode/tree/master/3765-complete-prime-number) |
 ## Greedy
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prafulpatil1121/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3765-complete-prime-number](https://github.com/prafulpatil1121/LeetCode/tree/master/3765-complete-prime-number) |
 ## Simulation
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/prafulpatil1121/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Enumeration
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/prafulpatil1121/LeetCode/tree/master/3765-complete-prime-number) |
 <!---LeetCode Topics End-->
