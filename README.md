@@ -171,4 +171,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3765-complete-prime-number](https://github.com/prafulpatil1121/LeetCode/tree/master/3765-complete-prime-number) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/prafulpatil1121/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/prafulpatil1121/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/prafulpatil1121/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/prafulpatil1121/LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
