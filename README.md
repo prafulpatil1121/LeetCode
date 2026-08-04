@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prafulpatil1121/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1748-sum-of-unique-elements](https://github.com/prafulpatil1121/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prafulpatil1121/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/prafulpatil1121/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/prafulpatil1121/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/prafulpatil1121/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prafulpatil1121/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3731-find-missing-elements](https://github.com/prafulpatil1121/LeetCode/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prafulpatil1121/LeetCode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/prafulpatil1121/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/prafulpatil1121/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [3731-find-missing-elements](https://github.com/prafulpatil1121/LeetCode/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
