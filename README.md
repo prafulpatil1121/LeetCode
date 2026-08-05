@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/prafulpatil1121/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/prafulpatil1121/LeetCode/tree/master/0048-rotate-image) |
+| [0507-perfect-number](https://github.com/prafulpatil1121/LeetCode/tree/master/0507-perfect-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prafulpatil1121/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3099-harshad-number](https://github.com/prafulpatil1121/LeetCode/tree/master/3099-harshad-number) |
 | [3765-complete-prime-number](https://github.com/prafulpatil1121/LeetCode/tree/master/3765-complete-prime-number) |
