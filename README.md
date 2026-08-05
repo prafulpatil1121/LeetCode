@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/prafulpatil1121/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/prafulpatil1121/LeetCode/tree/master/0048-rotate-image) |
+| [0367-valid-perfect-square](https://github.com/prafulpatil1121/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/prafulpatil1121/LeetCode/tree/master/0507-perfect-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prafulpatil1121/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3099-harshad-number](https://github.com/prafulpatil1121/LeetCode/tree/master/3099-harshad-number) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prafulpatil1121/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/prafulpatil1121/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/prafulpatil1121/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/prafulpatil1121/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0875-koko-eating-bananas](https://github.com/prafulpatil1121/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prafulpatil1121/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Number Theory
